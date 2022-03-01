@@ -1,5 +1,6 @@
 import React from 'react'
-import AboutImage from '../assets/about.jpg';
+import AboutImage from '../assets/sandwich.jpg';
+import '../styles/About.css';
 
 function About() {
   return (
@@ -11,15 +12,16 @@ function About() {
       <div className="aboutBottom">
         <h1>About Us</h1>
         <p>
-          Where can I get some?
-          There are many variations of passages of Lorem Ipsum available,
-          but the majority have suffered alteration in some form, by injected humour,
-          or randomised words which don't look even slightly believable.
-          If you are going to use a passage of Lorem Ipsum, you need to be sure
-          there isn't anything embarrassing hidden in the middle of text.
-          All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,
-          making this the first true generator on the Internet.
-          It uses a dictionary of over 200 Latin words,
+          Your Favorite Saturday Food 
+          What you taste first thing in the morning on Monday when you remember,
+          the leftovers you had from Saturday night which you probably shouldnt
+          of ate Sunday Night.
+          Something you crave during lunch, so much so that your willing to.
+          Walk into your bosses office and complain about something.
+          Just about anything so you can somehow lead this conversation to why.
+          The company needs to create a budget for our wonderful Indian Takeout,
+          Its that good.
+          Dont work another day without the wonderful joy of our 5.99 Lunch specials,
           combined with a handful of model sentence structures,
           to generate Lorem Ipsum which looks reasonable.
           The generated Lorem Ipsum is therefore always free from repetition,
