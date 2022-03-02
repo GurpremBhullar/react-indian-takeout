@@ -10,7 +10,9 @@ function Home() {
             <h1>Tikka Masala</h1>
             <h3>main ave NORWALK, CT</h3>
             <p>indian takeout</p>
+            <Link to="/menu">
             <button>Order Now</button>
+            </Link>
         </div>
     </div>
   );
